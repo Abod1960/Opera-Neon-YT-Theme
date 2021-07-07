@@ -29,14 +29,17 @@ and you can get the one you like.
 <a href=https://addons.mozilla.org/en-US/firefox/addon/styl-us/> <img src="https://image.flaticon.com/icons/png/512/732/732198.png" width="35"> </a> &nbsp &nbsp &nbsp
 <a href=https://addons.opera.com/en/extensions/details/stylus/> <img src="https://image.flaticon.com/icons/png/512/732/732233.png" width="35"> </a>
 </p>
-    <br>
-    
+
+
 
 * dark mode is **required** for the Dark theme to work.<br>
 * and light mode  **required** for the Light theme to work.
 
-#### 🔰 [Click here to install Opera Neon YT Theme Dark](https://github.com/Abod1960/Opera-Neon-YT-Theme/raw/main/Opera Neon YT Theme Dark.user.css)<br>
-#### 🔰 [Click here to install Opera Neon YT Theme light](https://github.com/Abod1960/Opera-Neon-YT-Theme/raw/main/Opera Neon YT Theme light.user.css)
+
+#### 🔰  [Click here to install Opera Neon YT Theme Dark](https://github.com/Abod1960/Opera-Neon-YT-Theme/raw/main/Opera%20Neon%20YT%20Theme%20Dark.user.css)
+
+#### 🔰  [Click here to install Opera Neon YT Theme light](https://github.com/Abod1960/Opera-Neon-YT-Theme/raw/main/Opera%20Neon%20YT%20Theme%20light.user.css)
+
 
 
 ## 👍 Recommended extensions and styles
