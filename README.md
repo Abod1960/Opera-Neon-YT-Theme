@@ -49,7 +49,7 @@ and you can get the one you like.
 
 〽 If you want to complete your neon setup here is a cursor: [Opera-Neon-Cursor](https://www.deviantart.com/abod1960/art/Opera-Neon-Cursor-884859104).
 
-🍀 And Here is a Discord theme: [Translucence Dev Theme](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Dev).
+🍀 And Here is a Discord themes light and dark: [Translucence Opera Neon Themes](https://github.com/Abod1960/BetterDiscord-Translucence-Themes/tree/master/Themes/Translucence-Opera%20Neon).
 
 🖌️ [Custom Progress Bar](https://33kk.github.io/uso-archive/?style=95280) | Styles your youtube progress bar
 
